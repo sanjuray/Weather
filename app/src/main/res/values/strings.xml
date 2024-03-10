@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="api_key">ebbea6ee08f77eca9fc151ed89c686eb</string>
+
+    <string name="search_places">Search Places</string>
+    <string name="demo_date">9th March, 22:20pm</string>
+
+    <string name="default_number">100</string>
+    <string name="default_time">06:00:00</string>
+
+    <string name="pressure">Pressure</string>
+    <string name="pressure_desc">Pressure Detail</string>
+
+    <string name="max_temp">Max Temp.</string>
+
+    <string name="humidity">Humidity</string>
+    <string name="humidity_desc">Humidity Detail</string>
+
+    <string name="min_temp">Min Temp.</string>
+
+    <string name="wind_speed">WindSpeed</string>
+    <string name="wind_speed_desc">WindSpeed Detail</string>
+
+    <string name="temperature_in_f">Temperature</string>
+    <string name="temperature_in_c">Temperature(°C)</string>
+    <string name="temperature_detail">Temperature Detail</string>
+
+    <string name="day">Day</string>
+    <string name="night">Night</string>
+    <string name="main_temp">16°</string>
+    <string name="feels_like">Feels like 16°</string>
+    <string name="weather_type">Weather</string>
+
+    <string name="sunrise">Sunrise</string>
+    <string name="sunrise_desc">Sunrise Detail</string>
+
+    <string name="sunset">Sunset</string>
+    <string name="sunset_desc">Sunset Detail</string>
+
+    <string name="background">background of current image</string>
+    <string name="weather_icon">icon for current image</string>
+
+</resources>
